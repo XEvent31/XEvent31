@@ -1,3 +1,8 @@
+style{
+  p{
+  display:inline
+  }
+}
 <h1 align="center">Hi 👋, I'm XEvent</h1>
 
 <h3 align="center">A passionate developer from Türkiye</h3>
